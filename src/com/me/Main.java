@@ -5,6 +5,12 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //step 10 instance
+        MyWindow myWindow = new MyWindow("Complete Java");
+        myWindow.setVisible(true);
+
+        //step 11 run
+
     }
 
 }
